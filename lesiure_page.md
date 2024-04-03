@@ -11,4 +11,4 @@
 - "Un verdor terrible" - Benjamin Labaut
 - "Pedro Paramo" - Juan Rulfo
 
-*Link back to main page:*[AboutMe Pedro Serdio](index.md)
+**Link back to main page:**[AboutMe Pedro Serdio](index.md)

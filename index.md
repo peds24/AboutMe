@@ -8,18 +8,17 @@
 - I love to cook for myself and others
 - Watching [Veratasium](https://www.youtube.com/@veritasium), [Numberphile](https://www.youtube.com/@numberphile) and [LaLigaDeLosSuperCuates](https://www.youtube.com/@LaLigaDeLosSuperCuates) ocupy my free afternoons
 
-*Here is a link to my lesiure page, where you can find a list of my favorite video games and current reading list*
-[Lesiure Page](lesiure_page.md)
 
-#### Current Favorite Quote:
+## Current Favorite Quote:
 > “Do nothing that is of no use” ― Musashi Miyamoto, Book of Five Rings
 
-#### Current Favorite Meme:
+## Current Favorite Meme:
 ![image](images/amry_monke.jpeg)
 
-#### Heres some code:
-'''
+## Heres some code:
+```
 print('Hello World'!)
-'''
+```
 
-
+**Here is a link to my lesiure page, where you can find a list of my favorite video games and current reading list**
+[Lesiure Page](lesiure_page.md)
