@@ -1,4 +1,4 @@
-# ABOUT ME: PEDRO SERDIO
+# PEDRO SERDIO
 ![image](images/me.jpeg)
 
 ## Rapid Fire Facts
