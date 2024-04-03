@@ -7,8 +7,9 @@
 5. Skyrim
 
 ## Reading List:
-- "Musashi" - Miayamoto Musashi
-- "Un verdor terrible" - Benjamin Labaut
-- "Pedro Paramo" - Juan Rulfo
+- [x] "Pedro Paramo" - Juan Rulfo
+- [x] "The Stranger" - Albert Camus
+- [] "Musashi" - Miayamoto Musashi
+- [] "Un verdor terrible" - Benjamin Labaut
 
 **Link back to main page:**[AboutMe Pedro Serdio](index.md)
