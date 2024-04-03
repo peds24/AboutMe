@@ -9,7 +9,7 @@
 ## Reading List:
 - [x] "Pedro Paramo" - Juan Rulfo
 - [x] "The Stranger" - Albert Camus
-- [] "Musashi" - Miayamoto Musashi
-- [] "Un verdor terrible" - Benjamin Labaut
+- [ ] "Musashi" - Miayamoto Musashi
+- [ ] "Un verdor terrible" - Benjamin Labaut
 
 **Link back to main page:**[AboutMe Pedro Serdio](index.md)
