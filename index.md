@@ -1,5 +1,5 @@
 # ABOUT ME: PEDRO SERDIO
-![image](images\me.jpeg)
+![image](images/me.jpeg)
 
 ## Rapid Fire Facts
 - From Mexico, born in Mexico City
