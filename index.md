@@ -16,7 +16,7 @@
 
 ## Heres some code:
 ```
-print('Hello World'!)
+print('Hello World!')
 ```
 
 **Here is a link to my lesiure page, where you can find a list of my favorite video games and current reading list**
